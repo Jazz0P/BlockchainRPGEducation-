@@ -1,6 +1,8 @@
 # Blockchain-RPG Contract
 
 ## Vision
+![Screenshot 2024-08-27 160103](https://github.com/user-attachments/assets/48190b26-c67e-404f-9263-03f72e59614f)
+
 
 The `Blockchain-RPG` smart contract is designed to manage and track player achievements in role-playing games (RPGs). This contract allows players to register, earn achievements, and view their progress. It utilizes a bitmask to efficiently store and update achievement data, making it scalable for games with a large number of achievements.
 
@@ -70,6 +72,7 @@ For questions or contributions, please reach out:
 - **Name**: Shubhadeep Dutta
 - **Email**: sd.shubhadeep@gmail.com
 - **GitHub**: https://github.com/Jazz0P
+- **Linkedin**: https://www.linkedin.com/in/shubhadeep-dutta-251415175/
 
 ---
 
