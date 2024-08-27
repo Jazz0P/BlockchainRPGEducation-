@@ -53,8 +53,7 @@ The `RPGAchievements` smart contract is designed to manage and track player achi
 
 ## Contract Address
 
-- **Contract Address**: [0xYourContractAddressHere]  
-  (Replace this placeholder with the actual deployed contract address.)
+- **Contract Address**: 0xDbcd18054F5fd4d371ABDB7178FD92D2234129C8
 
 ## Future Scope
 
