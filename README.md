@@ -1,8 +1,8 @@
-# RPGAchievements Contract
+# Blockchain-RPG Contract
 
 ## Vision
 
-The `RPGAchievements` smart contract is designed to manage and track player achievements in role-playing games (RPGs). This contract allows players to register, earn achievements, and view their progress. It utilizes a bitmask to efficiently store and update achievement data, making it scalable for games with a large number of achievements.
+The `Blockchain-RPG` smart contract is designed to manage and track player achievements in role-playing games (RPGs). This contract allows players to register, earn achievements, and view their progress. It utilizes a bitmask to efficiently store and update achievement data, making it scalable for games with a large number of achievements.
 
 ## Flowchart
 
@@ -49,7 +49,7 @@ The `RPGAchievements` smart contract is designed to manage and track player achi
 |  - Notify listeners       |
 |    of the new achievement |
 +---------------------------+
-
+```
 
 ## Contract Address
 
@@ -73,4 +73,4 @@ For questions or contributions, please reach out:
 
 ---
 
-Thank you for exploring the `RPGAchievements` contract! Your feedback and contributions are welcome.
+Thank you for exploring the `Blockchain-RPG` contract! Your feedback and contributions are welcome.
